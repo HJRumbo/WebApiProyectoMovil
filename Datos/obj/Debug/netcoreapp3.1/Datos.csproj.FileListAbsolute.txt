@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\WebApiProyecto\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\user\source\repos\WebApiProyecto\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\user\source\repos\WebApiProyecto\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\user\source\repos\WebApiProyecto\Datos\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\user\source\repos\WebApiProyecto\Datos\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

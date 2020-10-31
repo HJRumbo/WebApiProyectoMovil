@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CL7ZnWTKL/i7FZCI7drzzqV44Jp6v/snsx+DGRy1d94tpBG7HRNovvaKsuyU/GtpYFIhRz1e3LaXcYQoU3bBNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-rc.2.20475.5\\system.componentmodel.annotations.5.0.0-rc.2.20475.5.nupkg.sha512"
+  ],
+  "logs": []
+}
