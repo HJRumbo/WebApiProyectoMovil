@@ -10,3 +10,14 @@ C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.cs
 C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
 C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.dll
 C:\Users\user\source\repos\WebApiProyecto\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Acer\Documents\Universidad\Programacion Movil\Proyecto\WebApiProyectoMovil\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

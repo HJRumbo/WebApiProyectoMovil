@@ -111,19 +111,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "c:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -167,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

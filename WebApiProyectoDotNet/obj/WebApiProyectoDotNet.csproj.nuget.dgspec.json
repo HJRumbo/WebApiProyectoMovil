@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\WebApiProyecto\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj": {}
+    "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\Datos.csproj": {
+    "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\Datos.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj"
+              "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj"
               }
             }
           }
@@ -70,21 +73,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj": {
+    "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,21 +134,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\Logica.csproj": {
+    "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\Logica.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\Logica.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,11 +164,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\Datos.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Datos\\Datos.csproj"
+              "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Datos\\Datos.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj"
+              "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj"
               }
             }
           }
@@ -187,21 +196,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\WebApiProyecto\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj": {
+    "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj",
         "projectName": "WebApiProyectoDotNet",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\WebApiProyectoDotNet\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\WebApiProyectoDotNet\\WebApiProyectoDotNet.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\WebApiProyectoDotNet\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,11 +226,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Entity\\Entity.csproj"
+              "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Entity\\Entity.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\Logica.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiProyecto\\Logica\\Logica.csproj"
+              "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\Universidad\\Programacion Movil\\Proyecto\\WebApiProyectoMovil\\Logica\\Logica.csproj"
               }
             }
           }
@@ -261,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

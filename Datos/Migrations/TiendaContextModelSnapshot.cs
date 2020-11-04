@@ -46,6 +46,33 @@ namespace Datos.Migrations
                     b.ToTable("Clientes");
                 });
 
+            modelBuilder.Entity("Entity.Producto", b =>
+                {
+                    b.Property<int>("Codigo")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Imagen")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Precio")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Talla")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Codigo");
+
+                    b.ToTable("Productos");
+                });
+
             modelBuilder.Entity("Entity.Usuario", b =>
                 {
                     b.Property<string>("Correo")
